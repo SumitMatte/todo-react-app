@@ -113,7 +113,7 @@ h1 {
   border-radius: 5px;
   font-size: clamp(0.3rem, 2rem, 1rem);
   background: #3101218e;
-  color:yellow;
+  color:green;
   border: 1px solid white;
   padding: 0.3rem 0.5rem;
 }
